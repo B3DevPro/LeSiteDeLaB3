@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    min-height: 100%;
+    background-image: url('img/cyka.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    width: 100%;
+    min-height: 100%;
+    
+}
